@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Minimal Win:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Minimal_Win_jar</output-path>
+    <root id="archive" name="Minimal Win.jar">
+      <element id="module-output" name="Minimal Win" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-openal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/box2dlights.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-backend-gwt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-controllers.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-backend-lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/box2dlights-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-controllers-desktop.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-backend-lwjgl-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gdx-controllers-desktop-natives.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/gdx-controllers-desktop.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/gdx-controllers-desktop64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/gdx.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/gdx64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/jinput-dx8.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/jinput-dx8_64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/jinput-raw.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/jinput-raw_64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx-controllers-desktop.dylib" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx-controllers-desktop.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx-controllers-desktop64.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx.a" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx.dylib" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libgdx64.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libjinput-linux.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libjinput-linux64.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libjinput-osx.jnilib" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/liblwjgl.jnilib" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/liblwjgl.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/liblwjgl64.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libopenal.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/libopenal64.so" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/lwjgl.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/lwjgl64.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/openal.dylib" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/OpenAL32.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/natives/OpenAL64.dll" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
